@@ -28,6 +28,10 @@
               Best window size to view all the frames is 1920 x 1080.
             </p>
 
+            <p>
+              <a href="https://github.com/senordavis/screen-size-test" target="_blank"> Download the files on GitHub</a>
+            </p>
+
 
             <p class="alert alert-danger">
               <strong>Important:</strong> <br />
